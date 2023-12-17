@@ -7,9 +7,6 @@
     <a href="https://www.linkedin.com/in/alfredo-medina-a47486208/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discord.com/users/1179833406163521628">
-      <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
   </div>
 
   <!-- Visits Counter -->

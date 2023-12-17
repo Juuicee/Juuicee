@@ -36,7 +36,7 @@ I am currently a student finishing a B.S. in Computer Science at [Florida Intern
   
 - ⚡: Reading about various computer system designs and tackling on smaller/larger projects to expand what I know.
   
-- 📫: Contact me via any of the methods linked at the top of the profile, but preferably through [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alfredo-medina-a47486208/])
+- 📫: Contact me via any of the methods linked at the top of the profile, but preferably through [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-medina-a47486208/)
 
 ---
 
